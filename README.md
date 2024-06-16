@@ -43,6 +43,9 @@ Preparation of an article on Medium which shows insights from the project, chall
 1. Cleaned notebooks of Cities,Weather,Flights,Airports.
 2. Data Script file for creation of database in SQL.
 3. Weather Function notebook to automate in cloud.
-4. Database Schema to get an idea about data connectivity.
+4. Database Schema to get an idea about data table creation & connectivity.
+
+## Further Considerations
+
 
 
