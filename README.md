@@ -51,4 +51,4 @@ Preparation of an article on Medium which shows insights from the project, chall
 - Holidays, Special events will also demand the use of e-scooters.
 
 
-**Note** You can find the detailed information of this Project on my Medium Article.(Link:https://medium.com/@prisha2731/recipe-of-automating-data-pipeline-on-cloud-65747d8fd105)
+**Note** You can find the detailed information of this Project on my Medium Article.(https://medium.com/@prisha2731/recipe-of-automating-data-pipeline-on-cloud-65747d8fd105)
