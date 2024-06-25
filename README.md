@@ -46,6 +46,9 @@ Preparation of an article on Medium which shows insights from the project, chall
 4. Database Schema to get an idea about data table creation & connectivity.
 
 ## Further Considerations
+- Categorize the citites where the flow of tourists is more.
+- Take into the consideration that bad weather will impact the use of e-scooters.
+- Holidays, Special events will also demand the use of e-scooters.
 
 
-
+**Note** You can find the detailed information of this Project on my Medium Article.(Link:https://medium.com/@prisha2731/recipe-of-automating-data-pipeline-on-cloud-65747d8fd105)
